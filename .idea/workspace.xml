@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="assignment-java4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fff0e3c-02ef-4863-af06-ad293236e112" name="Changes" comment="upload code">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_microsoft_sqlserver_mssql_jdbc_11_2_2_jre17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jsp_jstl_jakarta_servlet_jsp_jstl_api_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_jakarta_servlet_jsp_jstl_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_10_15_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_10_15_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/layout/customer/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/layout/customer/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/layout/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/layout/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/layout/menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/app-creative-dark.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/app-creative.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/app-dark.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/app.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-SemiBold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/Nunito-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/dripicons-v2.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/dripicons-v2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/dripicons-v2.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/dripicons-v2.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/materialdesignicons-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/materialdesignicons-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/materialdesignicons-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/materialdesignicons-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/summernote.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/unicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/unicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/unicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/unicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/fonts/unicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/avatar-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/logo_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/coconut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/grapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/kiwi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/mango.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/images/products/watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/js/app.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/template/assets/js/vendor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/coconut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/grapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/kiwi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/mango.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/uploads/watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/chi-tiet-san-pham/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/chi-tiet-san-pham/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/chuc-vu/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/chuc-vu/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/chuc-vu/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/cua-hang/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/cua-hang/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/cua-hang/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/dong-san-pham/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/dong-san-pham/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/khach-hang/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/khach-hang/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/khach-hang/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/mau-sac/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/mau-sac/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/nha-san-xuat/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/nha-san-xuat/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/nhan-vien/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/nhan-vien/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/nhan-vien/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/san-pham/hien-thi-chi-tiet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/san-pham/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/trang-chu/chi-tiet-san-pham.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/trang-chu/gio-hang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/trang-chu/hien-thi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/assignment-java4-1.0-SNAPSHOT/views/trang-chu/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/assignment_java4_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/assignment_java4_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment-java4.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMGnLmm8hueKCOV7Smb2FYGFFP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/FPT Polytechnic/Servlet_JSP/assignment-java4",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ],
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\template\assets\css" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\template\assets\images" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\layout" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\views\trang-chu" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\WEB-INF" />
+      <recent name="D:\FPT Polytechnic\Servlet_JSP\assignment-java4\src\main\webapp\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.duyhung.assignment.service.impl" />
+      <recent name="org.duyhung.assignment.service" />
+      <recent name="org.duyhung.assignment.repository.impl" />
+      <recent name="org.duyhung.assignment.repository" />
+      <recent name="org.duyhung.assignment.servlet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <deployment>
+        <artifact name="assignment-java4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/assignment_java4_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="73406a4f-258f-47b1-ba15-f2a013378e6c" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51526" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="assignment-java4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fff0e3c-02ef-4863-af06-ad293236e112" name="Changes" comment="" />
+      <created>1679928891327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679928891327</updated>
+      <workItem from="1679928892585" duration="7032000" />
+      <workItem from="1679975233617" duration="16344000" />
+      <workItem from="1680065910083" duration="34000" />
+      <workItem from="1680066853172" duration="5973000" />
+      <workItem from="1680076513053" duration="5651000" />
+      <workItem from="1680100617526" duration="3140000" />
+      <workItem from="1680169643892" duration="8098000" />
+      <workItem from="1680238418497" duration="3373000" />
+      <workItem from="1680450440703" duration="5003000" />
+      <workItem from="1680497660220" duration="5352000" />
+      <workItem from="1680535407961" duration="192000" />
+      <workItem from="1680666039546" duration="379000" />
+      <workItem from="1680764878431" duration="8005000" />
+      <workItem from="1680792141663" duration="1697000" />
+      <workItem from="1680795328956" duration="1329000" />
+      <workItem from="1680843410949" duration="2824000" />
+      <workItem from="1680939133566" duration="23000" />
+      <workItem from="1680965579308" duration="572000" />
+      <workItem from="1680966166688" duration="1057000" />
+    </task>
+    <task id="LOCAL-00001" summary="upload code">
+      <created>1680966254814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966254814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload code">
+      <created>1680966583719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966583719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload code" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload code" />
+  </component>
+</project>
